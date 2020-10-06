@@ -11,6 +11,7 @@ public class TestCases extends BaseClass{
 	public void testCase1()
 	{
 		System.out.println("Test Case 1");
+		System.out.println("This is new commit");
 	}
 	
 	@Test
